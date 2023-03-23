@@ -13,7 +13,6 @@ export default function Landing({ preview }) {
           <title>Sparkle: Taste of Home</title>
         </Head>
         <Intro />
-        <SparkleFeatures />
       </Layout>
       </div>
     </>
