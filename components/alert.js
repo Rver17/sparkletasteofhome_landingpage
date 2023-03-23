@@ -37,7 +37,6 @@ export default function Alert({ preview }) {
             </section>
         </div>
       </Container>
-      <SparkleFeatures />
     </div>
   )
 }
