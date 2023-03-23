@@ -4,6 +4,7 @@ import { EXAMPLE_PATH } from '../lib/constants'
 import jQuery from 'jquery'
 import Animate from 'animate.css-react'
 import 'animate.css/animate.css'
+import SparkleFeatures from './sparklefeatures'
 
 export default function Alert({ preview }) {
   return (
@@ -35,8 +36,8 @@ export default function Alert({ preview }) {
             </Animate>
             </section>
         </div>
-        
       </Container>
+      <SparkleFeatures />
     </div>
   )
 }
